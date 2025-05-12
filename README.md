@@ -27,6 +27,12 @@ A modern, feature-rich movie discovery application built with React Native and E
 - **Icons**: Expo Vector Icons
 - **Animations**: React Native Reanimated
 
+## Preview 📺
+
+[![Watch the demo video](https://i.imgur.com/MejN0aP.png)](https://www.youtube.com/shorts/QYU7q_d6zmM)
+
+Click the image above to watch the video demo on YouTube.
+
 ## Prerequisites 📋
 
 - Node.js (v14 or higher)
@@ -134,6 +140,12 @@ Nowoczesna, bogata w funkcje aplikacja do odkrywania filmów zbudowana w React N
 - **Komponenty UI**: Własne komponenty React Native
 - **Ikony**: Expo Vector Icons
 - **Animacje**: React Native Reanimated
+
+## Podgląd 📺
+
+[![Zobacz demo](https://i.imgur.com/MejN0aP.png)](https://www.youtube.com/shorts/QYU7q_d6zmM)
+
+Kliknij w obrazek powyżej, aby obejrzeć demo w serwisie YouTube.
 
 ## Wymagania 📋
 
